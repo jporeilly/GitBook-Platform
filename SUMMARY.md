@@ -3,7 +3,7 @@
 ## Getting Started
 
 * [Welcome](README.md)
-* [Quickstart](getting-started/quickstart.md)
+* [Pentaho Installation & Labs](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
 ## Platform
